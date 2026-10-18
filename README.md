@@ -1,0 +1,1 @@
+This repository contains the main code for the study entitled “Sensor Placement for Water Distribution Systems: Leveraging Sensor Cooperation Gain to Boost Pipe Burst Detection Performance.” For additional code requests, please contact the authors.
